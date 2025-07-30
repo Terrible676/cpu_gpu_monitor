@@ -22,7 +22,8 @@ A minimal and elegant Windows CPU/GPU temperature and usage monitor, built with 
 
 ## 截图 Screenshot
 
-![screenshot](screenshot.png)
+
+![Uploading 微信截图_20250730224101.png…]()
 
 ---
 
