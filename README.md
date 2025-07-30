@@ -1,5 +1,5 @@
 # CPU/GPU Monitor
-！！！！！！！！告别360！！！！！！！！！！！！
+
 
 一个极简美观的 Windows CPU/GPU 温度与使用率监控工具，基于 Python + PyQt5。
 
