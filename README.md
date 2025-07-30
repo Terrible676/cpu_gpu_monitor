@@ -58,7 +58,3 @@ python cpu_gpu_monitor.py
 - PyQt5
 
 ---
-
-## 许可证 License
-
-MIT License
